@@ -1,0 +1,6 @@
+#pane_menu {
+    -fx-background-image: url("images/logo2.jpg");
+    -fx-background-color: black;
+    -fx-background-size: stretch;
+    -fx-background-position: bottom;
+}

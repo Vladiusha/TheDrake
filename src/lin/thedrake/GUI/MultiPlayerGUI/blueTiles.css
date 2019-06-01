@@ -1,0 +1,29 @@
+.blueArcher {
+    -fx-background-image: url("./../ui/assets/frontArcherB.png");
+    -fx-background-size: 100 100 stretch;
+}
+
+.blueSwordsman {
+    -fx-background-image: url("./../ui/assets/frontSwordsmanB.png");
+    -fx-background-size: 100 100 stretch;
+}
+
+.blueSpearman {
+    -fx-background-image: url("./../ui/assets/frontSpearmanB.png");
+    -fx-background-size: 100 100 stretch;
+}
+
+.blueMonk {
+    -fx-background-image: url("./../ui/assets/frontMonkB.png");
+    -fx-background-size: 100 100 stretch;
+}
+
+.blueClubman {
+    -fx-background-image: url("./../ui/assets/frontClubmanB.png");
+    -fx-background-size: 100 100 stretch;
+}
+
+.blueDrake {
+    -fx-background-image: url("./../ui/assets/frontDrakeB.png");
+    -fx-background-size: 100 100 stretch;
+}

@@ -1,0 +1,107 @@
+.bg1 {
+    -fx-background-image: url("../images/multiPlayerScreen.jpg");
+    -fx-background-size: stretch;
+}
+
+.bg2 {
+    -fx-background-image: url("../images/multiPlayerScreen.jpg");
+    -fx-background-size: stretch;
+}
+
+#letter_a, #letter_b, #letter_c, #letter_d {
+    -fx-font-size: 17;
+    -fx-text-fill: RED;
+    -fx-pref-width: 100;
+    -fx-font-weight: bold;
+    -fx-font-family: -apple-system;
+}
+
+#num_1, #num_2, #num_3, #num_4 {
+    -fx-font-size: 17;
+    -fx-text-fill: RED;
+    -fx-pref-height: 100;
+    -fx-font-weight: bold;
+    -fx-font-family: -apple-system;
+}
+
+#box_menu {
+    -fx-padding: 25 0 0 -25;
+}
+
+#box_menu:hover {
+    -fx-padding: -5 0 0 5;
+}
+
+#btn_menu {
+    -fx-min-width: 70;
+    -fx-min-height: 70;
+    -fx-max-width: 70;
+    -fx-max-height: 70;
+    -fx-background-image: url("../images/menu_icon.png");
+    -fx-background-color: transparent;
+    -fx-background-size: stretch;
+}
+
+
+#box_restart {
+    -fx-padding: 20 0 0 20;
+}
+
+#box_restart:hover {
+    -fx-padding: -5 0 0 -5;
+}
+
+#btn_restart {
+    -fx-min-width: 70;
+    -fx-min-height: 70;
+    -fx-max-width: 70;
+    -fx-max-height: 70;
+    -fx-background-image: url("../images/restart_icon.png");
+    -fx-background-color: transparent;
+    -fx-background-size: stretch;
+}
+
+#label_draw {
+    -fx-font-size: 24;
+    -fx-text-fill: #d40600;
+    -fx-font-weight: bold;
+    -fx-font-family: -apple-system;
+}
+
+
+#img_fight {
+    -fx-min-width: 80;
+    -fx-min-height: 80;
+    -fx-max-width: 80;
+    -fx-max-height: 80;
+
+    -fx-background-image: url("./../images/figth_icon.png");
+    -fx-background-size: 80 80 stretch;
+    -fx-background-color: transparent;
+}
+
+#label_orange_win {
+    -fx-font-size: 24;
+    -fx-text-fill: ORANGE;
+    -fx-font-weight: bold;
+    -fx-font-family: -apple-system;
+}
+
+#label_blue_win {
+    -fx-font-size: 24;
+    -fx-text-fill: BLUE;
+    -fx-font-weight: bold;
+    -fx-font-family: -apple-system;
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,30 @@
+.orangeArcher {
+    -fx-background-image: url("./../ui/assets/frontArcherO.png");
+    -fx-background-size: 100 100 stretch;
+}
+
+.orangeSwordsman {
+    -fx-background-image: url("./../ui/assets/frontSwordsmanO.png");
+    -fx-background-size: 100 100 stretch;
+}
+
+.orangeSpearman {
+    -fx-background-image: url("./../ui/assets/frontSpearmanO.png");
+    -fx-background-size: 100 100 stretch;
+}
+
+.orangeMonk {
+    -fx-background-image: url("./../ui/assets/frontMonkO.png");
+    -fx-background-size: 100 100 stretch;
+}
+
+.orangeClubman {
+    -fx-background-image: url("./../ui/assets/frontClubmanO.png");
+    -fx-background-size: 100 100 stretch;
+}
+
+.orangeDrake {
+    -fx-background-image: url("./../ui/assets/frontDrakeO.png");
+    -fx-background-size: 100 100 stretch;
+}
+

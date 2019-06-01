@@ -1,0 +1,252 @@
+#blue_selector {
+    -fx-background-color: rgba(97, 156, 185, 0.79);
+    -fx-background-radius: 10;
+    -fx-effect: dropshadow(one-pass-box, rgb(0, 0, 0), 20, 0.3, 0, 3);
+}
+
+#orange_selector {
+    -fx-background-color: rgba(97, 156, 185, 0.79);
+    -fx-background-radius: 10;
+    -fx-effect: dropshadow(one-pass-box, rgb(0, 0, 0), 20, 0.3, 0, 3);
+}
+
+#label_orange_player {
+    -fx-font-size: 20;
+    -fx-text-fill: #ff8600;
+    -fx-font-weight: bold;
+    -fx-font-family: -apple-system;
+}
+
+#label_orange_buffer {
+    -fx-font-size: 18;
+    -fx-text-fill: #ff0000;
+    -fx-font-weight: bold;
+    -fx-font-family: -apple-system;
+}
+
+#label_orange_stack {
+    -fx-font-size: 18;
+    -fx-text-fill: #ff0000;
+    -fx-font-weight: bold;
+    -fx-font-family: -apple-system;
+}
+
+#label_blue_player {
+    -fx-font-size: 20;
+    -fx-text-fill: #0000ff;
+    -fx-font-weight: bold;
+    -fx-font-family: -apple-system;
+}
+
+#label_blue_buffer {
+    -fx-font-size: 18;
+    -fx-text-fill: #ff0000;
+    -fx-font-weight: bold;
+    -fx-font-family: -apple-system;
+}
+
+#label_blue_stack {
+    -fx-font-size: 18;
+    -fx-text-fill: #ff0000;
+    -fx-font-weight: bold;
+    -fx-font-family: -apple-system;
+}
+
+.emptyPane {
+    -fx-max-height: 100;
+    -fx-max-width: 100;
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+    -fx-background-image: url("./../images/none_icon.png");
+    -fx-background-size: 100 100;
+}
+
+.paneSize {
+    -fx-max-height: 100;
+    -fx-max-width: 100;
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+}
+
+
+#img_empty_orange_buffer {
+    -fx-max-height: 100;
+    -fx-max-width: 100;
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+    -fx-background-image: url("./../images/none_icon.png");
+    -fx-background-size: 100 100;
+}
+
+#img_empty_orange_stack {
+    -fx-max-height: 100;
+    -fx-max-width: 100;
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+    -fx-background-image: url("./../images/none_icon.png");
+    -fx-background-size: 100 100;
+}
+
+#orange_stack_selector {
+    -fx-max-height: 100;
+    -fx-max-width: 100;
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+    -fx-background-color: transparent;
+}
+
+#img_orange_buffered_1, #img_orange_buffered_2, #img_orange_buffered_3, #img_orange_buffered_4, #img_orange_buffered_5, #img_orange_buffered_6, #img_orange_buffered_7 {
+    -fx-max-height: 100;
+    -fx-max-width: 100;
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+    -fx-background-color: transparent;
+}
+
+#img_orange_archer_front {
+    -fx-max-height: 100;
+    -fx-max-width: 100;
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+    -fx-background-image: url("./../ui/assets/frontArcherO.png");
+
+}
+
+#img_orange_swordsman_front {
+    -fx-max-height: 100;
+    -fx-max-width: 100;
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+    -fx-background-image: url("./../ui/assets/frontSwordsmanO.png");
+}
+
+#img_orange_spearman_front {
+    -fx-max-height: 100;
+    -fx-max-width: 100;
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+    -fx-background-image: url("./../ui/assets/frontSpearmanO.png");
+}
+
+#img_orange_monk_front {
+    -fx-max-height: 100;
+    -fx-max-width: 100;
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+    -fx-background-image: url("./../ui/assets/frontMonkO.png");
+}
+
+#img_orange_clubman_front_2 {
+    -fx-max-height: 100;
+    -fx-max-width: 100;
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+    -fx-background-image: url("./../ui/assets/frontClubmanO.png");
+}
+
+#img_orange_clubman_front_1 {
+    -fx-max-height: 100;
+    -fx-max-width: 100;
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+    -fx-background-image: url("./../ui/assets/frontClubmanO.png");
+}
+
+#img_orange_drake_front {
+    -fx-max-height: 100;
+    -fx-max-width: 100;
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+    -fx-background-image: url("./../ui/assets/frontDrakeO.png");
+}
+
+
+#img_empty_blue_buffer {
+    -fx-max-height: 100;
+    -fx-max-width: 100;
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+    -fx-background-image: url("./../images/none_icon.png");
+    -fx-background-size: 100 100;
+}
+
+#img_empty_blue_stack {
+    -fx-max-height: 100;
+    -fx-max-width: 100;
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+    -fx-background-image: url("./../images/none_icon.png");
+    -fx-background-size: 100 100;
+}
+
+#blue_stack_selector {
+    -fx-max-height: 100;
+    -fx-max-width: 100;
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+    -fx-background-color: transparent;
+}
+
+#img_blue_buffered_1, #img_blue_buffered_2, #img_blue_buffered_3, #img_blue_buffered_4, #img_blue_buffered_5, #img_blue_buffered_6, #img_blue_buffered_7 {
+    -fx-max-height: 100;
+    -fx-max-width: 100;
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+    -fx-background-color: transparent;
+}
+
+#img_blue_archer_front {
+    -fx-max-height: 100;
+    -fx-max-width: 100;
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+    -fx-background-image: url("./../ui/assets/frontArcherB.png");
+}
+
+#img_blue_swordsman_front {
+    -fx-max-height: 100;
+    -fx-max-width: 100;
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+    -fx-background-image: url("./../ui/assets/frontSwordsmanB.png");
+}
+
+#img_blue_spearman_front {
+    -fx-max-height: 100;
+    -fx-max-width: 100;
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+    -fx-background-image: url("./../ui/assets/frontSpearmanB.png");
+}
+
+#img_blue_monk_front {
+    -fx-max-height: 100;
+    -fx-max-width: 100;
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+    -fx-background-image: url("./../ui/assets/frontMonkB.png");
+}
+
+#img_blue_clubman_front_2 {
+    -fx-max-height: 100;
+    -fx-max-width: 100;
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+    -fx-background-image: url("./../ui/assets/frontClubmanB.png");
+}
+
+#img_blue_clubman_front_1 {
+    -fx-max-height: 100;
+    -fx-max-width: 100;
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+    -fx-background-image: url("./../ui/assets/frontClubmanB.png");
+}
+
+#img_blue_drake_front {
+    -fx-max-height: 100;
+    -fx-max-width: 100;
+    -fx-min-height: 100;
+    -fx-min-width: 100;
+    -fx-background-image: url("./../ui/assets/frontDrakeB.png");
+}
